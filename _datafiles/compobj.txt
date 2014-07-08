@@ -1,0 +1,60 @@
+-Which of the following memories is an optical memory?
+Floppy Disk
+Bubble Memories
+*CD–ROM
+Core Memories
+
+-DNS refers to 	
+Data Number Sequence
+*Digital Network Service
+Domain Name System
+Disk Numbering System
+
+-Java was originally invented by
+Oracle
+Microsoft
+Novell
+*Sun
+
+-The unit of speed used for super computer is 	
+KELOPS
+*GELOPS
+MELOPS
+None of these
+
+-Whose trademark is the operating system UNIX? 	
+Motorola
+Microsoft
+*BELL Laboratories
+AshtonTate
+
+-The first mechanical computer designed by Charles Babbage was called	
+Abacus
+*Analytical Engine
+Calculator
+Processor
+
+-Which of the following is the most powerful type of computer?
+Super–micro
+Super conductor
+*Super computer
+Megaframe
+
+-Which gate is a single integrated circuit?	
+*Gate
+Mother Board
+Chip
+CPU
+
+-C is	
+*A third generation high level language
+A machine language
+An assembly language
+All of the above
+
+-Web pages are written using	
+FTP
+HTTP
+*HTML
+URL
+

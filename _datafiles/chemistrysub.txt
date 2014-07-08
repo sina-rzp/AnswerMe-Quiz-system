@@ -1,0 +1,40 @@
+-Cyclobutyl bromide on treatment with magnesium in dry ether forms an organometallic (A). The organometallic reacts with ethanal to give an alcohol (B) after mild acidification. Prolonged treatment of alcohol (B) with an equivalent amount of HBr gives 1-bromo-1-methylcyclopentane (C). Write the structures of (A), (B) and explain how (C) is obtained from (B).
+Please explain your answer using diagram
+*10
+
+-A hydrocarbon (A) of molecular weight 54 reacts with an excess of Br2 in CCl4 to give a compound (B) whose molecular weight is 593% more than of (A). However, on catalytic hydrogenation with excess of hydrogen, (A) forms (C) whose molecular weight is only 7.4% more than that of (A). (A) reacts with CH3CH2Br in the presence of NaNH2 to give another hydrocarbon (D) which on ozonolysis yields diketone (E). (E) on oxidation gives propanoic acid. Give structures of (A) to (E) with reasons.
+Please explain your answer briefly
+*10
+
+-Why is that Lithium salts have a greater degree of covalent character than other halides of the alkali metal.
+Please explain your answer briefly
+*10
+
+-Dipole moment of HX is 2.59 ´ 10–30 coulomb-metre. Bond length of HX is 1.39Å. Calculate percentage ionic character of molecule.
+Please explain your answer briefly
+*10
+
+-Draw the molecular structures of XeF2 and  XeF4, indicating the location of lone pair(s) of electrons.
+Please explain your answer using diagram
+*10
+
+-In trimethylamine, the nitrogen has a pyramidal geometry whereas in trisilylamine N(SiH3)3, it has a planar geometry. What is the reason behind this ?
+Please explain your answer briefly
+*10
+
+-A diatomic molecule has a dipole moment of 1.2D. If its bond distance is 1.0Å. What fraction of an electronic charge exist on each atom?
+Provide calculation below
+*10
+
+-Though Cs is most electropositive element in periodic table, Li has highest oxidation potential why?
+Please explain your answer briefly
+*10
+
+-Explain why bond angle of NH3 is greater than NF3 while bond angle of PH3 is less than that of PF3.
+Please explain your answer briefly
+*10
+
+-The bond angle of H2O is 104° while that of F2O is 102°.
+Please explain your answer briefly
+*10
+

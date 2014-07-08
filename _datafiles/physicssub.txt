@@ -1,0 +1,40 @@
+-A body travels 200 cm in the first two seconds and 220 cm in the next four seconds.  What will be the velocity at the end of seventh second from start?
+Please provide the calculation below
+*10
+
+-A train travels from one station to another at a speed of 40 km/hr and returns to the first station at the speed of 60 km/hr.  Calculate the average speed and average velocity of the train.
+Please provide the calculation below
+*10
+
+-A particle moves in x-y plane with constant acceleration ‘a’ directed along the negative y-axis.  The equation of motion of the particle has the form y = ax - bx2, where a and b are positive constants.  Find the velocity of the particle at the origin. 
+Please provide the calculation below
+*10
+
+-A particle is projected with velocity u and angle q with the horizontal.  Find the time after which the velocity will be perpendicular to the initial velocity.
+Please provide the calculation below
+*10
+
+-An aeroplane is flying in a horizontal direction with a velocity 600 km/hr at a height of 1960 m.   When it is vertically above the point 'A' on the ground, a body is dropped from it.  The body strikes the ground at point B.  Calculate the distance AB. 
+Please provide the calculation below
+*10
+
+-A projectile is fired from the top of a tower 40 meter high with an initial speed of 50 m/s at an unknown angle.  Find its speed when it hits the ground.
+Please provide the calculation below
+*10
+
+-An aeroplane is flying in the horizontal direction with a velocity 540 km/hr at a height of 2000 m.   When it is vertically above the point 'A' on the ground, a body is dropped from it.  The body strikes the ground at point B.  Calculate the distance AB. 
+Please provide the calculation below
+*10
+
+-When light bends as it enters a different medium the process is known as what?
+Please explain your answer briefly
+*10
+
+-Metals expand when heated and do what when cooled?
+Please explain your answer briefly
+*10
+
+-What state of the art computer technology is used to train pilots when wanting to copy the experience of flying an aircraft?
+Please explain your answer briefly
+*10
+

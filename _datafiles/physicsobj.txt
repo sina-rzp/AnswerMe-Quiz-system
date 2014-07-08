@@ -1,0 +1,60 @@
+-A silicon diode measures a low value of resistance with the meter leads in both positions. The trouble, if any, is
+the diode is open.
+the diode is shorted to ground.
+*the diode is internally shorted.
+the diode is working correctly.
+
+-Single-element semiconductors are characterized by atoms with ____ valence electrons.
+3
+*4
+5
+2
+
+-A diode conducts when it is forward-biased, and the anode is connected to the ________ through a limiting resistor.
+*positive supply
+negative supply
+cathode
+anode
+
+-The movement of free electrons in a conductor is called
+voltage.
+*current.
+recombination.
+equilibrium.
+
+-The wide end arrow on a schematic indicates the ________ of a diode.
+ground
+direction of electron flow
+cathode
+*anode
+
+-An n-type semiconductor material
+is intrinsic.
+has trivalent impurity atoms added.
+*has pentavalent impurity atoms added.
+requires no doping.
+
+-For a forward-biased diode, as temperature is ________, the forward current ________ for a given value of forward voltage.
+decreased, increases
+*increased, increases
+increased, decreases
+decreased, decreases
+
+-Which statement best describes an insulator?
+A material with many free electrons.
+A material doped to have some free electrons.
+*A material with few free electrons.
+No description fits.
+
+-The boundary between p-type material and n-type material is called
+a diode.
+a reverse-biased diode.
+*a pn junction.
+a forward-biased diode.
+
+-You have an unknown type of diode in a circuit. You measure the voltage across it and find it to be 0.3 V. The diode might be
+a silicon diode.
+*a germanium diode.
+a forward-biased silicon diode.
+a reverse-biased germanium diode
+
